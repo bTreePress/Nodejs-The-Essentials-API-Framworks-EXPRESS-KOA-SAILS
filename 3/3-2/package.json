@@ -1,0 +1,11 @@
+{
+  "name": "luke-angel-up-and-running-node",
+  "version": "1.0.0",
+  "description": "chapter 4 exercise",
+  "main": "module-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
