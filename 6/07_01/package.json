@@ -1,0 +1,24 @@
+{
+  "name": "07_01",
+  "version": "1.0.0",
+  "description": "example for section 7-1 of the course Node.js Up and Running by Luke Angel btree.co/btreepress.co/lukeangel.co",
+  "main": "generatorFunctionsDemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bTreePress/NodeJS-Up-And-Running.git"
+  },
+  "keywords": [
+    "Node.js",
+    "generator",
+    "ES6"
+  ],
+  "author": "Luke Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bTreePress/NodeJS-Up-And-Running/issues"
+  },
+  "homepage": "https://github.com/bTreePress/NodeJS-Up-And-Running#readme"
+}
