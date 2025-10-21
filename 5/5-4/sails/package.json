@@ -12,16 +12,16 @@
     "grunt-contrib-concat": "^2.1.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": "^5.0.0",
-    "grunt-contrib-jst": "^3.2.0",
+    "grunt-contrib-jst": "^2.0.0",
     "grunt-contrib-less": "^3.0.0",
     "grunt-contrib-uglify": "^5.2.2",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-sails-linker": "^1.0.5",
+    "grunt-sails-linker": "^1.0.4",
     "grunt-sync": "^0.8.2",
-    "include-all": "^7.0.8",
+    "include-all": "^4.0.3",
     "rc": "^1.2.8",
     "sails": "^1.5.11",
-    "sails-disk": "^2.2.0"
+    "sails-disk": "^2.1.2"
   },
   "scripts": {
     "debug": "node debug app.js",
