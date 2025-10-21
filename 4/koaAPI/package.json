@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "koa": "^1.2.5"
+    "koa": "^2.15.3"
   },
   "devDependencies": {},
   "scripts": {
